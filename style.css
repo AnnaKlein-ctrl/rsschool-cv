@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: bebasneuelight;
-   src: url("/assets/fonts/bebasneuelight.ttf");
+   src: url("./assets/fonts/bebasneuelight.ttf");
  }
 
  body {
